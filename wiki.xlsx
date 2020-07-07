@@ -1,0 +1,20 @@
+Blind and visually impaired users [edit]
+
+In 1974, Ray Kurzweil started the company Kurzweil Computer Products, Inc. and continued development of omni-font OCR, which could recognize text printed
+in virtually any font (Kurzweil is often credited with inventing omni-font OCR, but it was in use by companies, including Compuscan, in the late 1960s and
+1970s!31l61), Kurzweil decided that the best application of this technology would be to create a reading machine for the blind, which would allow blind people to
+have a computer read text to them out loud. This device required the invention of two enabling technologies - the CCD flatbed scanner and the text-to-speech
+synthesizer. On January 13, 1976, the successful finished product was unveiled during a widely reported news conference headed by Kurzweil and the leaders of
+the National Federation of the Blind.{<itation needed! jn 1978, Kurzweil Computer Products began selling a commercial version of the optical character recognition
+‘computer program. LexisNexis was one of the first customers, and bought the program to upload legal paper and news documents onto its nascent online
+databases. Two years later, Kurzweil sold his company to Xerox, which had an interest in further commercializing paper-to-computer text conversion. Xerox
+eventually spun it off as Scansoft, which merged with Nuance Communications.
+
+In the 2000s, OCR was made available online as a service (WebOCR), in a cloud computing environment, and in mobile applications like real-time translation of
+foreign-language signs on a smartphone. With the advent of smart-phones and smartglasses, OCR can be used in internet connected mobile device applications
+that extract text captured using the device's camera. These devices that do not have OCR functionality built into the operating system will typically use an OCR
+API to extract the text from the image file captured and provided by the device.I7II81 The OCR API returns the extracted text, along with information about the
+location of the detected text in the original image back to the device app for further processing (such as text-to-speech) or display.
+
+Various commercial and open source OCR systems are available for most common writing systems, including Latin, Cyrillic, Arabic, Hebrew, Indic, Bengali
+(Bangla), Devanagari, Tamil, Chinese, Japanese, and Korean characters.
